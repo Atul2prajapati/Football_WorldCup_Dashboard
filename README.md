@@ -6,7 +6,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Querying-orange?style=for-the-badge&logo=databricks&logoColor=white)
 ![Wikipedia](https://img.shields.io/badge/Web%20Scraping-BeautifulSoup-green?style=for-the-badge)
-![CSV](https://img.shields.io/badge/Data-CSV-blue?style=for-the-badge)
+![CSV](https://img.shields.io/badge/Data-CSV-blue?style=for-the-badge) 
 ![License](https://img.shields.io/badge/License-Educational-lightgrey?style=for-the-badge)
 
 > A professional-grade, interactive Power BI dashboard delivering deep analytical insights into the performance of the **Top 20 National Football Teams** based on FIFA World Cup 2022 statistics — featuring dynamic filters, historical intelligence, and player-level tactical analysis.
